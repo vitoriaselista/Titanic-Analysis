@@ -1,5 +1,7 @@
 # Titanic Data Analysis
-*Survival predict based on data*
+**Survival predict based on data**
+
+***[...] The profile that is most likely to survive would be a female passenger who is under the age of 18, traveling in first class with 1-3 family members, and embarked from Cherbourg.***
 
 >The Titanic dataset provides a detailed account of the passengers aboard the ill-fated ship that sank on April 15, 1912. The data includes information on the passengers' demographics, such as age, gender, passenger class, and embarkation port, as well as their survival status.
 >
@@ -10,3 +12,4 @@
 >Overall, the analysis suggests that the profile most likely to survive was a young female passenger traveling in first class with 1-3 family members, and embarked from Cherbourg.
 >
 *However, it is important to note that these conclusions are based on the available data and may not be representative of the entire population of Titanic passengers.*
+
